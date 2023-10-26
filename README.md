@@ -71,8 +71,8 @@
 
 Теперь вы успешно установили Frida в termux. Можете использовать его для разработки и анализа приложений.
 
-<a id="ru"></a>
-<a href="#en">Ru guide</a>
+<a id="en"></a>
+<a href="#ru">Ru guide</a>
 # En
 ## Installation Steps
 
