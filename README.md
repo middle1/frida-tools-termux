@@ -1,6 +1,6 @@
 # frida-tools-termux
 <a href="#en">En guide</a>
-<a id="ru"></id>
+<a id="ru"></a>
 # Ru:
 ## Шаги установки
 
